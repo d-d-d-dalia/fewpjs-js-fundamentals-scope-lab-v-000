@@ -1,6 +1,7 @@
-let animal = ""
+animal = ""
 
 function myAnimal() {
+  let animal = "dog"
   return animal
   //console.log(animal)
 }
