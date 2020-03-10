@@ -1,6 +1,6 @@
 animal = ""
 
-function myAnimal(animal) {
+function myAnimal() {
   return animal
   //console.log(animal)
 }
