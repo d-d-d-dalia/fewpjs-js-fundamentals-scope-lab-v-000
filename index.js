@@ -2,7 +2,7 @@ animal = ""
 
 function myAnimal(animal) {
   return animal
-  console.log(animal)
+  //console.log(animal)
 }
 
 function yourAnimal() {
